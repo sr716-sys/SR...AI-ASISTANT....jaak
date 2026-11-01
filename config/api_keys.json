@@ -1,0 +1,15 @@
+{
+    "gemini_api_key": "AQ.Ab8RN6J2EATuGmGPYcgftjDTJNQaauuwC4dwsEZxJPa3g5kDnA",
+    "os_system": "windows",
+    "assistant_name": "jak",
+    "user_name": "Shantanu Raj",
+    "ui_color": "#ac00ff",
+    "camera_index": 0,
+    "morning_brief_enabled": true,
+    "wake_word_enabled": false,
+    "hud_style": "core",
+    "input_device": "Internal Microphone (Conexant ISST Audio)",
+    "output_device": "Speakers (Conexant ISST Audio)",
+    "voice_name": "Puck",
+    "push_to_talk_enabled": false
+}
